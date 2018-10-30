@@ -28,6 +28,9 @@ x = x // 10
 rev = rev * 10 + pop
 ```
 
+time complexity: `O(log(x))` because there are approximately $\log_10(x)$ numbers of digits in x
+space complexity: `O(1)`
+
 ## Code
 
 ```python
