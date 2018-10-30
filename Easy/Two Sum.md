@@ -24,7 +24,7 @@ space complexity: `O(n)`
 
 ## Code
 
-```
+```python
 class Solution:
     def twoSum(self, nums, target):
         """
