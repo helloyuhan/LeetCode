@@ -19,7 +19,7 @@ Note: Assume we are dealing with an environment which could only store integers 
 
 pop and push: pop the last digit and push it to the first iteratively
 
-```{python3}
+```python
 # pop operation
 pop = x % 10
 x = x // 10
@@ -30,7 +30,7 @@ rev = rev * 10 + pop
 
 ## Code
 
-```
+```python
 class Solution:
     def reverse(self, x):
         """
