@@ -3,5 +3,5 @@ This repo is for summarizing the solutions to Lintcode problems, and all of them
 
 |Index|Problem|Level|Tags|
 |:---:|-------|:---:|:--:|
-|0|Two Sum[www.google.com]|Easy||
+|0|[Two Sum](www.google.com)|Easy||
 |1|Reverse Integer|Easy||
