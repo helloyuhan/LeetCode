@@ -1,3 +1,5 @@
+# Problem
+
 Roman numerals are represented by seven different symbols: `I, V, X, L, C, D` and `M`.
 
 Symbol       Value  
@@ -59,3 +61,32 @@ Input: "MCMXCIV"
 Output: 1994
 
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
+
+# Solution
+
+## Idea
+
+Roman numerals are big to small from left to right. When left < right, it represents a reduction.
+
+## Code
+
+```python
+# Direct Solution
+return s.count("M")*1000 + s.count("D")*500 + s.count("C")*100 \
+    + s.count("L")*50 + s.count("X")*10 + s.count("V")*5 + s.count("I")*1 \
+    - s.count("CD")*200 - s.count("CM") * 200 - s.count("XL")*20 - s.count("XC")*20 \
+    - s.count("IV")*2 - s.count("IX")*2
+    
+# Normal Solution
+rom_to_int = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+result = 0
+num = 3999
+for l in s:
+    t = rom_to_int[l]
+    if t <= num:
+        num = t
+    else:
+        num = -2 * num + t
+    result += num
+return result
+```
