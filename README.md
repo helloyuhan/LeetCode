@@ -15,3 +15,7 @@ This repo is for summarizing the solutions to Lintcode problems, and all of them
 |9|[Implement strStr()](https://github.com/helloyuhan/LeetCode/blob/master/Easy/009.%20Implement%20strStr().md)|Easy||
 |10|[Search Insert Position](https://github.com/helloyuhan/LeetCode/blob/master/Easy/010.%20Search%20Insert%20Position.md)|Easy||
 |11|[Count and Say](https://github.com/helloyuhan/LeetCode/blob/master/Easy/011.%20Count%20and%20Say.md)|Easy||
+|12|[Maximum Subarray](https://github.com/helloyuhan/LeetCode/blob/master/Easy/012.%20Maximum%20Subarray.md)|Easy||
+|13|[Length of Last Word](https://github.com/helloyuhan/LeetCode/blob/master/Easy/013.%20Length%20of%20Last%20Word.md)|Easy||
+|14|[Plus One](https://github.com/helloyuhan/LeetCode/blob/master/Easy/014.%20Plus%20One.md)|Easy||
+|15|[Add Binary](https://github.com/helloyuhan/LeetCode/blob/master/Easy/015.%20Add%20Binary.md)|Easy||
