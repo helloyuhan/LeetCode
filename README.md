@@ -1,5 +1,5 @@
 # Leetcode
-This repo is for summarizing the solutions to Lintcode problems, and all of them are written in **Python3**.
+This repo is for summarizing the solutions to Leetcode problems, and all of them are written in **Python3**.
 
 |Index|Problem|Level|Tags|
 |:---:|-------|:---:|:--:|
