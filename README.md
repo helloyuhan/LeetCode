@@ -19,3 +19,5 @@ This repo is for summarizing the solutions to Lintcode problems, and all of them
 |13|[Length of Last Word](https://github.com/helloyuhan/LeetCode/blob/master/Easy/013.%20Length%20of%20Last%20Word.md)|Easy||
 |14|[Plus One](https://github.com/helloyuhan/LeetCode/blob/master/Easy/014.%20Plus%20One.md)|Easy||
 |15|[Add Binary](https://github.com/helloyuhan/LeetCode/blob/master/Easy/015.%20Add%20Binary.md)|Easy||
+|16|[Sqrt(x)](https://github.com/helloyuhan/LeetCode/blob/master/Easy/016.%20Sqrt(x).md)|Easy||
+|17|[Climbing Stairs](https://github.com/helloyuhan/LeetCode/blob/master/Easy/017.%20Climbing%20Stairs.md)|Easy||
